@@ -18,9 +18,14 @@ bio: I am a Postdoc in the Department of Psychology and Behavioural Sciences at 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Key scientific areas:
+- Individual and situational predictors of antisocial behaviors, such as dishonesty,
+bribery, and corruption
+- Interactions between the prosocial personality trait of Honesty-Humility and
+situational factors in predicting antisocial behavior
+- Relations between creativity and antisocial behavior
+- The role of (un)ethical justifications in motivating prosocial and antisocial behavior
+
 
 # Education to show in About widget
 education:
