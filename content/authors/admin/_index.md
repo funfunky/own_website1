@@ -51,3 +51,12 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a Postdoc in the Department of Psychology and Behavioural Sciences at Aarhus University. Prior to that, I finished my PhD at the University of Copenhagen (2017-2020).
+Key scientific areas:
+- Individual and situational predictors of antisocial behaviors, such as dishonesty,
+bribery, and corruption
+- Interactions between the prosocial personality trait of Honesty-Humility and
+situational factors in predicting antisocial behavior
+- Relations between creativity and antisocial behavior
+- The role of (un)ethical justifications in motivating prosocial and antisocial behavior
+
