@@ -24,13 +24,13 @@ bio: I am a Postdoc in the Department of Psychology and Behavioural Sciences at 
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:karolina.scigala@psy.au.dk"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/kascigala
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=OgNfZ_IAAAAJ&hl=en&oi=ao
 
 
 # Link to a PDF of your resume/CV.
@@ -47,6 +47,7 @@ email: ''
 highlight_name: true
 ---
 I am a Postdoc in the Department of Psychology and Behavioural Sciences at Aarhus University. Prior to that, I finished my PhD at the University of Copenhagen (2017-2020).
+
 Key scientific areas:
 - Individual and situational predictors of antisocial behaviors, such as dishonesty,
 bribery, and corruption
