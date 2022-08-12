@@ -14,7 +14,7 @@ organizations:
     url: www.au.dk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Postdoc in the Department of Psychology and Behavioural Sciences at Aarhus University. Prior to that, I finished my PhD at the University of Copenhagen (2017-2020).
 
 # Interests to show in About widget
 interests:
