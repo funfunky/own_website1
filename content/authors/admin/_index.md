@@ -1,39 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Karolina Ścigała
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Aarhus University
+    url: www.au.dk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Postdoc in the Department of Psychology and Behavioural Sciences at Aarhus University. Prior to that, I finished my PhD at the University of Copenhagen (2017-2020).
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Key scientific areas:
+- Individual and situational predictors of antisocial behaviors, such as dishonesty,
+bribery, and corruption
+- Interactions between the prosocial personality trait of Honesty-Humility and
+situational factors in predicting antisocial behavior
+- Relations between creativity and antisocial behavior
+- The role of (un)ethical justifications in motivating prosocial and antisocial behavior
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
